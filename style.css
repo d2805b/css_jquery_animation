@@ -1,0 +1,17 @@
+/*delighterを使ってのアニメーション
+   /*画像
+   .pf-image.delighter {
+	transition: all .75s ease-out;
+	/*↓下から出てくる
+	transform: translateY(100%);
+	opacity: 0;
+ }
+*/
+/*スタート時のスタイル 
+ .pf-image.delighter.started {
+	transform: none;
+	opacity: 1;
+ }
+*/
+/*--delighterアニメーション終了--*/
+
